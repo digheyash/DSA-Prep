@@ -12,4 +12,13 @@ class Solution {
         }
         return arr;
     }
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        int n = 5;
+        int[] result = s.countBits(n);
+        for (int i : result) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
+    }
 }
