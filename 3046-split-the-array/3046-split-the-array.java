@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public boolean isPossibleToSplit(int[] nums) {
         int []freq = new int[101];
         for(int num : nums){
