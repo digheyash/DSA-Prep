@@ -1,4 +1,4 @@
-class Solution {
+class Solution__ {
     public int[] countBits(int n) {
         int[] arr = new int[n+1];
         for (int i=0 ; i<=n ; i++){
@@ -13,7 +13,7 @@ class Solution {
         return arr;
     }
     public static void main(String[] args) {
-        Solution s = new Solution();
+        Solution__ s = new Solution__();
         int n = 5;
         int[] result = s.countBits(n);
         for (int i : result) {
