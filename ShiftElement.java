@@ -4,7 +4,7 @@ public class ShiftElement {
     static int [] rightShift (int [] arr){
         //int [] result = new int [arr.length] ;
         int p = arr[arr.length-1] ;
-        for (int i =arr.length-1 ; (i-1)>=0 ; i--){
+        for (int i =arr.length-1 ; i>0 ; i--){
             arr[i]=arr[i-1] ;
         }
         arr[0] = p ;
