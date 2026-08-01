@@ -1,6 +1,6 @@
 public class read_charin_string {
     public static void main (String []args){
-        String str ="hello";
+        String str ="hello world";
         int count = 0;
         int len =0;
         for(char  ch : str.toCharArray()){
