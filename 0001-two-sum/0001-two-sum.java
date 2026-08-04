@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int [] arr =new int[2];
+        //int [] arr =new int[2];
         HashMap<Integer ,Integer> hmap = new HashMap<>() ;
         for (int i = 0 ; i< nums.length ;i++){
             int compliment = target - nums[i] ;
@@ -24,6 +24,6 @@ class Solution {
         //     }
            
         // }
-        return (arr);
+        return new int []{};
     }
 }
