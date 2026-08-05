@@ -1,4 +1,6 @@
-class Solution {
+import java.util.* ;
+
+class SolutionMissinNo {
     public int missingNumber(int[] nums) {
         int XOR1 = 0 ;
         int XOR2 = 0 ;

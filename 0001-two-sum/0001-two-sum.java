@@ -1,4 +1,6 @@
-class Solution {
+import java.util.* ;
+
+class Solution2sum {
     public int[] twoSum(int[] nums, int target) {
         //int [] arr =new int[2];
         HashMap<Integer ,Integer> hmap = new HashMap<>() ;
