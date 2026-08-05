@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/digheyash/DSA-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/digheyash/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/digheyash/DSA-Prep/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/digheyash/DSA-Prep/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/digheyash/DSA-Prep/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/digheyash/DSA-Prep/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
