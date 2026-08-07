@@ -6,8 +6,9 @@ class Solution {
            }
         }
         for(int i =0 ;i< nums.length ;i++){
-            if(Math.abs(nums[i])<nums.length+1){
-                nums[Math.abs(nums[i])-1]=-Math.abs(nums[Math.abs(nums[i])-1]);
+            int value = Math.abs(nums[i]);
+            if(value<nums.length+1){
+                nums[value-1]=-Math.abs(nums[value-1]);
             }
         }
         for(int i =0 ;i< nums.length ;i++){
