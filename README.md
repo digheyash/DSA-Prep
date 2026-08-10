@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/digheyash/DSA-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/digheyash/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/digheyash/DSA-Prep/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/digheyash/DSA-Prep/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/digheyash/DSA-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/digheyash/DSA-Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/digheyash/DSA-Prep/tree/master/0645-set-mismatch) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/digheyash/DSA-Prep/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/digheyash/DSA-Prep/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/digheyash/DSA-Prep/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
