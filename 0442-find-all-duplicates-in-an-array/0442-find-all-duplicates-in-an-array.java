@@ -1,4 +1,5 @@
-class Solution {
+import java.util.* ;
+class SolutionfindDuplicates {
     public List<Integer> findDuplicates(int[] nums) {
         // HashSet<Integer> hset = new HashSet<>() ;
         List<Integer> list = new ArrayList<>() ;

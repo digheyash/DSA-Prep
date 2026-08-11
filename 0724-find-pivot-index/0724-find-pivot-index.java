@@ -1,4 +1,4 @@
-class Solution {
+class SolutionpivotIndex {
     public int pivotIndex(int[] nums) {
         int n = nums.length ;
         int[] leftsum = new int[n] ;

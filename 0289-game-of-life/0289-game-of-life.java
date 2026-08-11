@@ -1,4 +1,4 @@
-class Solution {
+class SolutiongameOfLife {
     public void gameOfLife(int[][] board) {
         int[][] clone =new int[board.length][board[0].length] ;
         for(int i=0 ; i<board.length ;i++){
