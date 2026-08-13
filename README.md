@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/digheyash/DSA-Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/digheyash/DSA-Prep/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/digheyash/DSA-Prep/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/digheyash/DSA-Prep/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/digheyash/DSA-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/digheyash/DSA-Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/digheyash/DSA-Prep/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/digheyash/DSA-Prep/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
