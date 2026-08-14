@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/digheyash/DSA-Prep/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/digheyash/DSA-Prep/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/digheyash/DSA-Prep/tree/master/1207-unique-number-of-occurrences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/digheyash/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
