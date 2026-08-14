@@ -1,19 +1,32 @@
 class Solution {
     public boolean check(int[] nums) {
-        
-        boolean result =true ;
+         int count = 0;
 
-        for(int i=0 ;i<nums.length-1 ;i++){
-            if(nums[i+1]<nums[i]){
-                nums=reverse(0 ,nums.length-1,nums) ;
-                nums=reverse(0 ,nums.length-2-i,nums) ;
-                nums=reverse(nums.length-1-i,nums.length-1,nums) ;
-                result=sortedornot(nums);
-                return result ;
+        for (int i = 0; i < nums.length; i++) {
+
+            if (nums[i] > nums[(i + 1) % nums.length]) {
+                count++;
             }
-            
+
+            if (count > 1) {
+                return false;
+            }
         }
-        return result ;
+
+        return true;
+        // boolean result =true ;
+
+        // for(int i=0 ;i<nums.length-1 ;i++){
+        //     if(nums[i+1]<nums[i]){
+        //         nums=reverse(0 ,nums.length-1,nums) ;
+        //         nums=reverse(0 ,nums.length-2-i,nums) ;
+        //         nums=reverse(nums.length-1-i,nums.length-1,nums) ;
+        //         result=sortedornot(nums);
+        //         return result ;
+        //     }
+            
+        // }
+        // return result ;
     }
     private int[] reverse(int st ,int end ,int [] arr){
         int [] reverse =arr.clone() ;
