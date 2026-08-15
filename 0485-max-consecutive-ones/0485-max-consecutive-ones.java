@@ -13,7 +13,7 @@ class Solution {
             }
         }
         max=Math.max(countno,max);
-        countno=0 ;
+        
         return max ;
     }
 }
