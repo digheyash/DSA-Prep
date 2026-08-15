@@ -6,13 +6,13 @@ class Solution {
         for(int i=0 ;i<nums.length ; i++){
             if(nums[i]==1){
                 countno++ ;
+                 max=Math.max(countno,max);
             }
             else{
-                max=Math.max(countno,max);
+               
                 countno=0 ;
             }
         }
-        max=Math.max(countno,max);
         
         return max ;
     }
