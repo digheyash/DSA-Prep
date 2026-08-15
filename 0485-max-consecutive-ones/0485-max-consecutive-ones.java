@@ -7,12 +7,13 @@ class Solution {
             if(nums[i]==1){
                 countno++ ;
             }
-            if(nums[i]==0||i==nums.length-1){
-                 max=Math.max(countno,max);
+            else{
+                max=Math.max(countno,max);
                 countno=0 ;
             }
         }
-        
+        max=Math.max(countno,max);
+        countno=0 ;
         return max ;
     }
 }
