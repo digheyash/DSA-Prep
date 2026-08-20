@@ -1,4 +1,5 @@
-class Solution {
+import java.util.* ;
+class SolutionSpiral {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> list =new ArrayList<>() ;
         int strow =0;

@@ -1,4 +1,4 @@
-class Solution {
+class Solutionrotate {
     public void rotate(int[][] matrix) {
         int n= matrix.length ;
        

@@ -1,4 +1,5 @@
-class Solution {
+import java.util.* ;
+class Solutionuniq {
     public boolean uniqueOccurrences(int[] arr) {
         HashSet <Integer> uniq =new HashSet<>() ;
         HashMap <Integer,Integer> freq =new HashMap<>() ;

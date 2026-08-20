@@ -1,4 +1,4 @@
-class Solution {
+class Solutioncheck {
     public boolean check(int[] nums) {
          int count = 0;
 
