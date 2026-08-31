@@ -32,7 +32,7 @@ public class frequsingbinary {
         return upper-low ;
     }
     public static void main(String[] args){
-        int [] arr = {1,2,3,4,4,5,6,7,8} ;
+        int [] arr = {1,2,3,4,4,5,6,6,7,8} ;
         System.out.println(nooccurence(arr ,6)) ;
 
     }
